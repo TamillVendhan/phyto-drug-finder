@@ -1,0 +1,12 @@
+# React
+frontend/node_modules
+frontend/build
+
+# PHP / uploads
+backend/uploads
+backend/config/db.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode
